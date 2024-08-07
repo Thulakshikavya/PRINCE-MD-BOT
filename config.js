@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 import dotenv from 'dotenv'
-dotenv.config()
+dotenv.94701044976 dulanjana rajapaksha()
 
 const ownervb = process.env.OWNERS;
 if (!ownervb){
